@@ -1,0 +1,17 @@
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\bin\Debug\net6.0-windows\CalculadoraSueldoAnual.exe
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\bin\Debug\net6.0-windows\CalculadoraSueldoAnual.deps.json
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\bin\Debug\net6.0-windows\CalculadoraSueldoAnual.runtimeconfig.json
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\bin\Debug\net6.0-windows\CalculadoraSueldoAnual.dll
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\bin\Debug\net6.0-windows\CalculadoraSueldoAnual.pdb
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.csproj.AssemblyReference.cache
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.Form1.resources
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.csproj.GenerateResource.cache
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.AssemblyInfoInputs.cache
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.AssemblyInfo.cs
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.csproj.CoreCompileInputs.cache
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.dll
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\refint\CalculadoraSueldoAnual.dll
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.pdb
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\CalculadoraSueldoAnual.genruntimeconfig.cache
+C:\Users\Manue\source\repos\CalculadoraSueldoAnual\CalculadoraSueldoAnual\obj\Debug\net6.0-windows\ref\CalculadoraSueldoAnual.dll
