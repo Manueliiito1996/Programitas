@@ -1,0 +1,17 @@
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\bin\Debug\net6.0-windows\Calculadora Turca.exe
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\bin\Debug\net6.0-windows\Calculadora Turca.deps.json
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\bin\Debug\net6.0-windows\Calculadora Turca.runtimeconfig.json
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\bin\Debug\net6.0-windows\Calculadora Turca.dll
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\bin\Debug\net6.0-windows\Calculadora Turca.pdb
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.csproj.AssemblyReference.cache
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.csproj.GenerateResource.cache
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.AssemblyInfoInputs.cache
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.AssemblyInfo.cs
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.csproj.CoreCompileInputs.cache
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.dll
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\refint\Calculadora Turca.dll
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.pdb
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora Turca.genruntimeconfig.cache
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\ref\Calculadora Turca.dll
+C:\Users\Manue\source\repos\Calculadora Turca\Calculadora Turca\obj\Debug\net6.0-windows\Calculadora_Turca.Calculadora.resources
